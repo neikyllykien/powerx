@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.ktxbk.vn	TRUE	/	FALSE	1999999999	1982a73be3ae533957356a4c785979a6	g1ncbp5jm922q95p74r1sas5i3
+sv1.upsieutoc.com	TRUE	/	FALSE	1999999999	cf_ob_info	521:664ca7a4ea042fc7:SIN
+sv1.upsieutoc.com	TRUE	/	FALSE	1999999999	cf_use_ob	80
+www.ktxbk.vn	TRUE	/	FALSE	1999999999	lang	deleted
+www.ktxbk.vn	TRUE	/	FALSE	1999999999	jfcookie	deleted
+www.ktxbk.vn	TRUE	/	FALSE	1999999999	jfcookie[lang]	en
+

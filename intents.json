@@ -1,0 +1,43 @@
+{
+  "intents": [
+    {"tag": "greeting",
+     "patterns": ["Hi there", "How are you", "Is anyone there?","Hey","Hola", "Hello", "Good day", "Hey", "Ekse", "Hi"],
+     "responses": ["Xin chào, tôi có thể giúp gì cho bạn!"]
+    },
+    {"tag": "goodbye",
+     "patterns": ["Bye", "See you later", "Goodbye", "Ok bye", "Bye Bye"],
+     "responses": ["See you!", "Have a nice day", "Sure Bye", "Later dude", "Sayoonara", "Peace out", "Sure dude", "Ciao"]
+    },
+    {"tag": "thanks",
+     "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
+     "responses": ["Happy to help!", "You are welcome", "Không có gì nè!"]
+    },
+    {"tag": "noanswer",
+     "patterns": [],
+     "responses": ["Sorry, can't understand you", "éo hiểu! Hỏi lại đi!"]
+     },
+     {"tag": "name",
+      "patterns": ["What is your name", "công ty tên gì", "tên", "name", "Ungubani", "Tell me about yourself", "You are"],
+      "responses": ["Công ty tên là POWER X, còn mình tên là bé X <3"]
+      },
+      {"tag": "đại diện",
+       "patterns": ["đại diện", "người đại diện", "Đại diện pháp luật"],
+       "responses": ["Là anh Phạm Phú Đức"]
+      },
+      {
+        "tag": "thể loại",
+        "patterns": ["thể loại", "công ty dạng gì?", "Loại hình hoạt động", "loại hình"],
+        "responses": ["Công ty TNHH Hai Thành Viên trở lên"]
+      },
+      {
+        "tag": "địa chỉ",
+        "patterns": ["địa chỉ", "công ty ở đâu", "ở đâu"],
+        "responses": ["Địa chỉ: Số 299/34, Minh Phụng, Phường 2, Quận 11, Thành phố Hồ Chí Minh"]
+      },
+      {
+        "tag": "time",
+        "patterns": ["Ngày bắt đầu hoạt động", "công ty tuổi", "tuổi công ty", "Ngày hoạt động"],
+        "responses": ["Ngày bắt đầu hoạt động: 30/07/2019 "]
+      }
+  ]
+}
